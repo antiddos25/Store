@@ -1,0 +1,12 @@
+D:\Store\Store\Store.Utility\bin\Debug\net6.0\Store.Utility.deps.json
+D:\Store\Store\Store.Utility\bin\Debug\net6.0\Store.Utility.dll
+D:\Store\Store\Store.Utility\bin\Debug\net6.0\Store.Utility.pdb
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.csproj.AssemblyReference.cache
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.AssemblyInfoInputs.cache
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.AssemblyInfo.cs
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.csproj.CoreCompileInputs.cache
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.dll
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\refint\Store.Utility.dll
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\Store.Utility.pdb
+D:\Store\Store\Store.Utility\obj\Debug\net6.0\ref\Store.Utility.dll
